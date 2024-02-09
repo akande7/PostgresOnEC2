@@ -1,4 +1,4 @@
-# PostgresOnEC2
+# Installation of Postgres on AWS EC2 Instance
 
 ## Step 1: Update Package Lists
 Run the following command to update the package lists on your instance:
